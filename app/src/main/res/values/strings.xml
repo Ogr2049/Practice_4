@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">practice04</string>
+
+    <string name="go">Go</string>
+    <string name="search">Search</string>
+    <string name="vk_id">VK ID</string>
+    <string name="no_photos">no photos</string>
+    <string name="one_photo">%1$d photo</string>
+    <string name="many_photos">%1$d photos</string>
+    <string name="err_field_cant_be_empty">Field cannot be empty</string>
+    <string name="err_cant_find_user">Cannot find this user</string>
+    <string name="err_vk_api">Error with VK API</string>
+    <string name="err_profile_closed">This user has a private profile</string>
+    <string name="err_no_albums">No albums found</string>
+    <string name="err_empty_album">This album is empty</string>
+    <string name="err_some">Some error occurred. Try again</string>
+</resources>
